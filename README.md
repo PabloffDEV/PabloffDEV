@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     </a>
     <br>
     <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=pabloff&style=for-the-badge" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=PabloffDEV&style=for-the-badge" alt="Profile Views">
     </a>
 </div>
 
